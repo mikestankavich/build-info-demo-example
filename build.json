@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "buildNumber": "123",
+  "buildDate": "2023-05-08T14:30:00Z",
+  "gitCommit": "abc123def456",
+  "environment": "production"
+}
